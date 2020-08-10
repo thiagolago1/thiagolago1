@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Thiago!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-lago-680958156/)](https://www.linkedin.com/in/thiago-lago-680958156/)
+#### You can find me here: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-lago-680958156/)](https://www.linkedin.com/in/thiago-lago-680958156/)
 
-- 🇧🇷 🏡 🇵🇹 Brazilian, Based in Lisbon, Portugal 
+- 🏡 Brazilian, Based in Lisbon, Portugal 
 - 💻 Web & Mobile Developer
 - 🎸 Bass Player
 - 🔫 Counter-Strike lover

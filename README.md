@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **thiagolago1/thiagolago1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there, I'm Thiago!
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-lago-680958156/)](https://www.linkedin.com/in/thiago-lago-680958156/)
+
+- 🇧🇷 🏡 🇵🇹 Brazilian, Based in Lisbon, Portugal 
+- 💻 Web & Mobile Developer
+- 🎸 Bass Player
+- 🔫 Counter-Strike lover
+

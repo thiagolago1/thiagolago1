@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Thiago!
 
-- 🏡 Brazilian, Based in Lisbon, Portugal 
+- 🏡 Brazilian, Based in Leiria, Portugal 
 - 💻 Web & Mobile Developer
 - 🎸 Bass Player
 - 🔫 Counter-Strike lover

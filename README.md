@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagolago1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 -->
 
 
@@ -28,7 +29,6 @@ Here are some ideas to get you started:
 <div>
 <a href="https://github.com/thiagolago1">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolago1&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagolago1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 #### You can find me here: 

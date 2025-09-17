@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 </div>
 
 #### You can find me here: 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-lago-680958156/)](https://www.linkedin.com/in/thiago-lago-680958156/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-lago-680958156/)](https://www.linkedin.com/in/thiagolago/)
 

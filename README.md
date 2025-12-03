@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 💻 Web & Mobile Developer
 - 🎸 Bass Player
 - 🔫 Counter-Strike lover
-- 🔴⚫⚽ Flamengo is my religion (SRN)!
+- 🔴⚫⚽ SRN!
 
 <div>
 <a href="https://github.com/thiagolago1">

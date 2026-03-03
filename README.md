@@ -26,10 +26,6 @@ Here are some ideas to get you started:
 - 🔫 Counter-Strike lover
 - 🔴⚫⚽ SRN!
 
-<div>
-<a href="https://github.com/thiagolago1">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolago1&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
 #### You can find me here: 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-lago-680958156/)](https://www.linkedin.com/in/thiagolago/)
